@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/code-programming-developer-gif-27048375)](https://alarjun.tech.blog)
+[![MasterHead](<div class="tenor-gif-embed" data-postid="27048375" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/code-programming-developer-gif-27048375">Code Programming GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)](https://alarjun.tech.blog)
 
 
 <h1 align="center">Hi 👋, I'm Arjun Pangunuri</h1>
