@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://alarjun.tech.blog)
+[![MasterHead](https://tenor.com/view/code-programming-developer-gif-27048375)](https://alarjun.tech.blog)
 
 
 <h1 align="center">Hi 👋, I'm Arjun Pangunuri</h1>
