@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1537432376769-00a0101d5f78?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" width="100%" alt="header banner"/>
+  <img src="IMAGE_URL_HERE" width="100%" alt="Futuristic programming header"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Arjun Pangunuri</h1>
