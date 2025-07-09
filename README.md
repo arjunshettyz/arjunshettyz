@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="futuristic coding gif" />
+  <img src="https://images.unsplash.com/photo-1581093588401-22d8762bd145?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80" width="100%" alt="programming banner"/>
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Arjun Pangunuri</h1>
