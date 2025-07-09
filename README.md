@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f172a&height=180&section=header&text=Hi%20👋%2C%20I'm%20Arjun%20Pangunuri%20🚀&fontSize=35&fontColor=ffffff&fontAlign=50" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff,00ffff,0000ff&height=200&section=header&text=Hi%20👋%2C%20I'm%20Arjun%20Pangunuri%20🚀&fontSize=35&fontColor=ffffff&animation=twinkling" alt="header banner"/>
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Arjun Pangunuri</h1>
