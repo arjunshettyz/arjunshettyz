@@ -57,18 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunshettyz&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunshettyz&show_icons=true&locale=en" alt="github stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunshettyz" alt="streak stats" />
-</p>
 
----
 
 ## 📫 Connect with me
 <p>
