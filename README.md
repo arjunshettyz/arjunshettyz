@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1611078489935-04b58f5a4de2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80" width="100%" alt="coder desk banner"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="coding gif"/>
 </p>
-
-
 
 
 <h1 align="center">Hi 👋, I'm Arjun Pangunuri</h1>
