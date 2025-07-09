@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;Generative+AI+%7C+DSA+%7C+Competitive+Programming;Always+learning+new+tech+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;Gen+AI+%7C+DSA+%7C+Competitive+Programming;Always+learning+new+tech+🚀" alt="Typing SVG" />
 </p>
 
 ---
