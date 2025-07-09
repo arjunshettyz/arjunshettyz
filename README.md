@@ -1,16 +1,5 @@
 <p align="center">
-  <!-- Animated SVG wave -->
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/assets/githubheader_waves.svg" width="100%" alt="animated wave banner"/>
-</p>
-
-<p align="center">
-  <!-- Capsule gradient header with waving look -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2,4a00e0&height=200&section=header&text=Hi%20👋%2C%20I'm%20Arjun%20Pangunuri%20🚀&fontSize=35&fontColor=ffffff" alt="header banner"/>
-</p>
-
-<p align="center">
-  <!-- Typing animation line -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%7C+Generative+AI;Competitive+Programmer+%7C+DSA+Lover;Always+Building+Futuristic+Things+💻" alt="typing animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=8e2de2,4a00e0&height=180&section=header&text=Hi%20%2C%20I'm%20Arjun%20Pangunuri%20&fontSize=35&fontColor=ffffff&fontAlign=50" alt="header banner"/>
 </p>
 
 
