@@ -56,7 +56,9 @@
 - 📜 Certified in DSA (GFG), Node.js, PHP, Generative AI & Web Development (Coursera)
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunshettyz" alt="streak stats" />
+</p>
 
 
 ## 📫 Connect with me
