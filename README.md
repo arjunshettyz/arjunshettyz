@@ -1,78 +1,87 @@
-<br>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="futuristic coding gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arjun Pangunuri</h1>
-<h3 align="center">Software Engineer specializing in MERN Stack, DSA, and AI-driven applications. Passionate about building scalable web solutions, exploring Generative AI, and solving complex problems.</h3>
-
+<h3 align="center">🚀 Software Engineer specializing in MERN Stack, DSA & AI-driven applications. Obsessed with building scalable web systems, exploring Generative AI, and solving complex tech challenges.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arjunpangunuri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-  <a href="https://github.com/arjunshettyz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
-  <a href="mailto:Arjunpangunuri@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/arjunpangunuri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/arjunshettyz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:Arjunpangunuri@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;Generative+AI+%7C+DSA+%7C+Competitive+Programming;Always+learning+new+tech+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Love building **full-stack applications with MERN & exploring Generative AI**  
-- 💬 Ask me about **Web Development, Java, Python, or DSA**  
-- 📫 Reach me at **Arjunpangunuri@gmail.com**
+- 💻 Building **full-stack apps with MERN** & integrating Generative AI to solve real-world problems
+- 🧠 Practicing **DSA daily**, love tackling algorithmic challenges on LeetCode & HackerRank
+- 🔥 Passionate about blending creativity with code to build futuristic web systems
+- 📫 **Reach me:** [Arjunpangunuri@gmail.com](mailto:Arjunpangunuri@gmail.com)
 
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,python,java,mysql,git,linux" height="60"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,firebase,figma,vscode" height="60"/>
 </p>
 
 ---
 
-## 🧩 Projects
-- 🔥 **AI Code Reviewer:** Full-stack app with Next.js, Tailwind CSS & OpenAI for intelligent code reviews.  
-- 🛒 **Shopo:** MERN stack multi-vendor e-commerce platform with authentication & payments.  
-- ✂️ **Salon Management:** PHP & MySQL system for live salon bookings with admin dashboards.
+## 🧩 Featured Projects
+🚀 **AI Code Reviewer**  
+> Full-stack app using Next.js + Tailwind CSS & OpenAI’s LLM to give real-time intelligent code reviews.  
+> 🛠️ **Tech:** Next.js, Node.js, OpenAI API
+
+🛒 **Shopo E-commerce**  
+> MERN stack multi-vendor platform with authentication, payments, and product catalog.  
+> 🛠️ **Tech:** React.js, Express.js, MongoDB, Bootstrap
+
+✂️ **Salon Management System**  
+> PHP + MySQL system for live salon bookings with admin dashboard & user authentication.  
+> 🛠️ **Tech:** PHP, MySQL, Bootstrap
 
 ---
 
 ## 🏆 Achievements & Certifications
-- 🎖️ **3-Star** in Java, C++, Python on HackerRank  
-- 📜 Certified in DSA (GFG), Node.js, PHP, Generative AI & Web Development (Coursera)
+- 🌟 **3-Star** in Java, C++, Python on HackerRank  
+- 🥇 Certified: DSA (GFG), Node.js, PHP, Generative AI, Web Development (Coursera)
 
 ---
+
+## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunshettyz&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunshettyz&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunshettyz" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunshettyz&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
-
-
-## 📫 Connect with me
-<p>
-  <a href="https://twitter.com/ashettyz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
-  <a href="https://linkedin.com/in/arjun-pangunuri-078917219" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-  <a href="https://instagram.com/arjunshettyz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/arjunpangunuri" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"></a>
-  <a href="https://www.leetcode.com/arjunpangunuri" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunshettyz&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/ashettyz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/arjun-pangunuri-078917219" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/arjunshettyz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/arjunpangunuri" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://www.leetcode.com/arjunpangunuri" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+🚀;Happy+Coding!+🔥" alt="footer typing" />
+</p>
