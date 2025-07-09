@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="IMAGE_URL_HERE" width="100%" alt="Futuristic programming header"/>
+  <img src="https://images.unsplash.com/photo-1593642634367-d91a135587b5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80" width="100%" alt="Futuristic programmer header"/>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Arjun Pangunuri</h1>
 <h3 align="center">🚀 Software Engineer specializing in MERN Stack, DSA & AI-driven applications. Obsessed with building scalable web systems, exploring Generative AI, and solving complex tech challenges.</h3>
