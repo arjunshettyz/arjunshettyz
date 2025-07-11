@@ -62,9 +62,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjunshettyz&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunshettyz&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunshettyz&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
