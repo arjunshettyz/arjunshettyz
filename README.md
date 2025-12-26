@@ -60,16 +60,9 @@
 
 ---
 
-## 📊 GitHub Insights
+## 📈 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunshettyz&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
-
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunshettyz&theme=tokyo-night&hide_border=true)
 
 ---
 
