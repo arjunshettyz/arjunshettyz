@@ -65,11 +65,22 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunshettyz&theme=tokyo-night&hide_border=true)
 
 ---
-<img
-  src="https://raw.githubusercontent.com/arjunshettyz/arjunshettyz/output/pacman-contribution-graph.svg"
-  alt="Pacman Contribution Graph"
-  width="100%"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/arjunshettyz/arjunshettyz/output/pacman-contribution-graph-dark.svg?v=1"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/arjunshettyz/arjunshettyz/output/pacman-contribution-graph.svg?v=1"
+  />
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/arjunshettyz/arjunshettyz/output/pacman-contribution-graph.svg?v=1"
+    width="100%"
+  />
+</picture>
+
 
 ---
 
