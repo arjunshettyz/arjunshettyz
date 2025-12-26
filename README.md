@@ -65,6 +65,16 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunshettyz&theme=tokyo-night&hide_border=true)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/arjunshettyz/arjunshettyz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/arjunshettyz/arjunshettyz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+       src="https://raw.githubusercontent.com/arjunshettyz/arjunshettyz/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ## 🌐 Connect With Me
 <p align="center">
